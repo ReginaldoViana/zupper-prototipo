@@ -1,0 +1,4 @@
+#Wed Mar 01 15:32:43 BRT 2023
+base.0=/Users/reginaldoviana/Desktop/Estudos/estudando-flutter/zupper/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
